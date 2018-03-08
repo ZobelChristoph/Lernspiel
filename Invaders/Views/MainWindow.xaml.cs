@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Invaders.ViewModels;
 
 namespace Invaders
 {
@@ -20,9 +21,24 @@ namespace Invaders
     /// </summary>
     public partial class MainWindow : Window
     {
+        private InvadarsViewModel myViewModel;
+
         public MainWindow()
         {
             InitializeComponent();
+            myViewModel = new InvadarsViewModel();
+            this.DataContext = myViewModel;
+
+
+            //TODO:
+            //Remember: Bind on Property!
+            //Todo: Move Player by KeyCode
+            //Then: Check out, how this is made by the original game
+        }
+
+        private void Image_KeyDown(object sender, KeyEventArgs e)
+        {
+            myViewModel.Image_KeyDown(sender, e);
         }
     }
 }
