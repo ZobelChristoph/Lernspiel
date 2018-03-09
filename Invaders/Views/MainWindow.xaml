@@ -8,12 +8,10 @@
         Title="MainWindow" Height="350" Width="525"
         KeyDown="Image_KeyDown">
     <Grid>
-        <ItemsControl>
+        <ItemsControl ItemsSource="{Binding Path=Sprites}" >
             <Canvas>
-                    <!--
-                    <Image HorizontalAlignment="Left" Height="30" Width="40" Source="/Assets/player.png" Canvas.Top="200" Canvas.Left="200"/>
-                    -->
-                <Image Source="{Binding Model.Player.ImagePath}" Canvas.Top="{Binding Model.Player.ImageFromTop}" Canvas.Left="{Binding Model.Player.ImageFromLeft}" />
+                   <Image Source="{Binding Model.Bug.ImagePath}" Canvas.Top="{Binding Model.Bug.ImageFromTop}" Canvas.Left="{Binding Model.Bug.ImageFromLeft}" />
+                   <Image Source="{Binding Model.Player.ImagePath}" Canvas.Top="{Binding Model.Player.ImageFromTop}" Canvas.Left="{Binding Model.Player.ImageFromLeft}" />
             </Canvas>
         </ItemsControl>
     </Grid>

@@ -1,0 +1,15 @@
+C:\Users\X230t\Documents\Meine Unterlagen\Informatik\Datenbanken\20112012 Datenbanken\06 WPF und Serious Games\Invaders\Invaders\bin\Debug\Invaders.exe.config
+C:\Users\X230t\Documents\Meine Unterlagen\Informatik\Datenbanken\20112012 Datenbanken\06 WPF und Serious Games\Invaders\Invaders\bin\Debug\Invaders.exe
+C:\Users\X230t\Documents\Meine Unterlagen\Informatik\Datenbanken\20112012 Datenbanken\06 WPF und Serious Games\Invaders\Invaders\bin\Debug\Invaders.pdb
+C:\Users\X230t\Documents\Meine Unterlagen\Informatik\Datenbanken\20112012 Datenbanken\06 WPF und Serious Games\Invaders\Invaders\obj\Debug\Invaders.csprojResolveAssemblyReference.cache
+C:\Users\X230t\Documents\Meine Unterlagen\Informatik\Datenbanken\20112012 Datenbanken\06 WPF und Serious Games\Invaders\Invaders\obj\Debug\Views\MainWindow.g.cs
+C:\Users\X230t\Documents\Meine Unterlagen\Informatik\Datenbanken\20112012 Datenbanken\06 WPF und Serious Games\Invaders\Invaders\obj\Debug\App.g.cs
+C:\Users\X230t\Documents\Meine Unterlagen\Informatik\Datenbanken\20112012 Datenbanken\06 WPF und Serious Games\Invaders\Invaders\obj\Debug\Invaders_MarkupCompile.cache
+C:\Users\X230t\Documents\Meine Unterlagen\Informatik\Datenbanken\20112012 Datenbanken\06 WPF und Serious Games\Invaders\Invaders\obj\Debug\Invaders_MarkupCompile.lref
+C:\Users\X230t\Documents\Meine Unterlagen\Informatik\Datenbanken\20112012 Datenbanken\06 WPF und Serious Games\Invaders\Invaders\obj\Debug\Views\MainWindow.baml
+C:\Users\X230t\Documents\Meine Unterlagen\Informatik\Datenbanken\20112012 Datenbanken\06 WPF und Serious Games\Invaders\Invaders\obj\Debug\Invaders.g.resources
+C:\Users\X230t\Documents\Meine Unterlagen\Informatik\Datenbanken\20112012 Datenbanken\06 WPF und Serious Games\Invaders\Invaders\obj\Debug\Invaders.Properties.Resources.resources
+C:\Users\X230t\Documents\Meine Unterlagen\Informatik\Datenbanken\20112012 Datenbanken\06 WPF und Serious Games\Invaders\Invaders\obj\Debug\Invaders.csproj.GenerateResource.Cache
+C:\Users\X230t\Documents\Meine Unterlagen\Informatik\Datenbanken\20112012 Datenbanken\06 WPF und Serious Games\Invaders\Invaders\obj\Debug\Invaders.csproj.CoreCompileInputs.cache
+C:\Users\X230t\Documents\Meine Unterlagen\Informatik\Datenbanken\20112012 Datenbanken\06 WPF und Serious Games\Invaders\Invaders\obj\Debug\Invaders.exe
+C:\Users\X230t\Documents\Meine Unterlagen\Informatik\Datenbanken\20112012 Datenbanken\06 WPF und Serious Games\Invaders\Invaders\obj\Debug\Invaders.pdb

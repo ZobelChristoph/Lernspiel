@@ -30,9 +30,22 @@ namespace Invaders.Models
             }
         }
 
+        private Bug _bug;
+
+        public Bug Bug
+        {
+            get { return _bug; }
+            set
+            {
+                _bug = value;
+                NotifyPropertyChanged("Bug");
+            }
+        }
+
         public InvadersModel()
         {
             _player = new Player();
+            _bug = new Bug();
         }
 
         //Methods

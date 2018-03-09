@@ -32,8 +32,7 @@ namespace Invaders
 
             //TODO:
             //Remember: Bind on Property!
-            //Todo: Move Player by KeyCode
-            //Then: Check out, how this is made by the original game
+            //Then: Create some bugs, which moves by the event of a timer, the bugs should be in a observable list (Maybe two things?)
         }
 
         private void Image_KeyDown(object sender, KeyEventArgs e)
