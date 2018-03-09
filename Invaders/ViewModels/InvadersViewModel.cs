@@ -82,6 +82,7 @@ namespace Invaders.ViewModels
         public void startTimer()
         { 
             timer = new DispatcherTimer();
+
             timer.Interval = TimeSpan.FromSeconds(1);
             timer.Tick += timer_Tick;
             timer.Start();
