@@ -18,6 +18,7 @@ namespace Invaders.Models
                 PropertyChanged(this, new PropertyChangedEventArgs(info));
         }
 
+        private int directionMovement = -20;
 
         //private string _ImagePath = "@/Assets/player.png";
         private string _ImagePath = "C:/Users/X230t/Documents/Meine Unterlagen/Informatik/Datenbanken/20112012 Datenbanken/06 WPF und Serious Games/Invaders/Invaders/Assets/bug.png";
@@ -58,8 +59,19 @@ namespace Invaders.Models
 
         public void Move()
         {
-           ImageFromLeft -= 20;
+           if(ImageFromLeft ==0)
+           {
+                directionMovement = 20;
+                ImageFromTop += 50;
+           }
+           if(ImageFromLeft ==780)
+           {
+                directionMovement = -20;
+                ImageFromTop += 50;
+           }
+           //General Movement in Dependancy of the before choosen direction
+           ImageFromLeft += directionMovement;
         }
-    
+
     }
 }

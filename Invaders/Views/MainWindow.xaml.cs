@@ -31,8 +31,10 @@ namespace Invaders
 
 
             //TODO:
-            //Remember: Bind on Property!
-            //Then: Create some bugs, which moves by the event of a timer, the bugs should be in a observable list (Maybe two things?)
+            //Remember:     Bind on Property!
+            //Next:         Realise an Collision-Detection
+            //Later:        Check out that the Invadars work also for the Bugs in the Observable List
+
         }
 
         private void Image_KeyDown(object sender, KeyEventArgs e)
